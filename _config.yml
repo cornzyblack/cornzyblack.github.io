@@ -1,7 +1,7 @@
 # Site settings
 title_left: Eniwoke
 title_right: Cornelius
-description: Minimalist Jekyll theme for technical writing blog.
+description: Welcome to Eni's wesbite.
 keywords: Databricks, Spark, DataEngineering, SWE, SoftwareEngineering, Python
 url: https://eniwokec.com
 baseurl: # apply repo name like '/myproject' if used under gh-pages branch, else (under master branch) just leave empty/blank
