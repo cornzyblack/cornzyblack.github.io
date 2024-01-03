@@ -1,16 +1,16 @@
 # Site settings
-title_left: Eniwoke
-title_right: Cornelius
-description: Welcome to Eni's wesbite.
-keywords: Databricks, Spark, DataEngineering, SWE, SoftwareEngineering, Python
+title_left: "Eniwoke"
+title_right: "Cornelius"
+description: "Welcome to Eni's wesbite."
+keywords: "Databricks, Spark, DataEngineering, SWE, SoftwareEngineering, Python"
 url: https://eniwokec.com
-baseurl: # apply repo name like '/myproject' if used under gh-pages branch, else (under master branch) just leave empty/blank
-cover: # image uri like logo/cover image for site seo
+baseurl: "" # apply repo name like '/myproject' if used under gh-pages branch, else (under master branch) just leave empty/blank
+cover: "" # image uri like logo/cover image for site seo
 
 google_analytics: UA-XXXXX-XX
-# twitter_username:
+twitter_username: ""
 comments_enabled: false # if enabled (set to true), please provide your disqus_username
-# disqus_shortname:
+disqus_shortname: ""
 postshare_enabled: false
 
 # Build settings
@@ -28,7 +28,7 @@ sass:
 
 # Author settings
 author:
-  name: Eniwoke Cornelius
+  name: "Eniwoke Cornelius"
 
 plugins:
   - jekyll-sitemap
@@ -39,7 +39,7 @@ plugins:
 navbar:
   - slug: about
     title: About
-  - slug: blog
+  - slug: blog"
     title: Blog
 
 exclude:
